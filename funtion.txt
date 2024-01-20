@@ -1,0 +1,9 @@
+//void funtion
+it does not return anaything
+
+// parameterised function
+it takes a function
+
+// non-parameterised function
+doesnot take any parameters
+
